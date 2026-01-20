@@ -1,0 +1,11 @@
+# .NET
+bin/
+obj/
+.vs/
+
+# macOS
+.DS_Store
+
+# Rider / VS Code
+.idea/
+.vscode/
